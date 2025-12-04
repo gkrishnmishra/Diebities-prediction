@@ -1,5 +1,5 @@
 # Diebities-prediction
- This Machine Learning model check the person is Diebities or Non-diebities patient
+I created a binary classification model that predicts whether a person is diabetic (1) or not diabetic (0).
 
 
 
